@@ -34,7 +34,7 @@ Available NoteSkins are listed below:
 | **BASIC** | Pump It Up: Fiesta EX (Arcade / 2011). | Not available at command window. Only playable at Basic Mode. |
 | **FIESTA 2** | Pump It Up: Fiesta 2 (Arcade / 2012). | Default full mode skin. |
 | **PRIME** | Pump It Up: Prime (Arcade / 2014). | Default full mode skin. |
-
+| **PRIME 2** | Pump It Up: Prime 2 (Arcade / 2017). | Default full mode skin. |
 ### Credits
 
 - [hanubeki](https://github.com/hanubeki) - For his amazing noteskin which is full of useful information about how this shit works.
